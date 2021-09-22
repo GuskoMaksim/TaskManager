@@ -1,12 +1,7 @@
-﻿// TaskManager.cpp: определяет точку входа для приложения.
-//
-
-#include "TaskManager.h"
-
-using namespace std;
+﻿#include "TaskManager.h"
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "Start TaskManager" << std::endl;
 	return 0;
 }
